@@ -50,3 +50,6 @@ This was created with the syntaxes below:
 
 This was carried out using the syntaxes below: 
 ![](alteration.png)
+
+## Conlusion 
+The Students' Record database was created using SQL. It cointains the personal information, health records and performance. 
