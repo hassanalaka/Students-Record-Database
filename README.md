@@ -40,10 +40,11 @@ This was created using the syntax shown in the picture below:
 - Performance (Student ID FK, HEALTH FK,  Score, Grade)
 
 This was created with the syntaxes below: 
-
-![](students_info.png)
-![](health_records.png)
-![](performance.png)
+Query                        |    Result
+:--------------------------- | :-----------------------------
+ ![](students_info.png)      | ![](result1.png)
+ ![](health_records.png)     | ![](result2.png)
+ ![](performance.png)        | ![](result3.png)
 
 #### Apply the following modifications to the table
 -	Change column name ‘’Subject” to ‘’Course” 
